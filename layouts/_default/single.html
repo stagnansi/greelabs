@@ -1,0 +1,28 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p>
+  <i>
+    <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+      {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+    </time>
+  </i>
+</p>
+<content>
+  {{ .Content }}
+</content>
+
+<hr style="margin-top: 30px; margin-bottom: 20px;" />
+
+<nav style="display: flex; justify-content: space-between; font-family: 'IBM Plex Mono', monospace; font-size: 14px;">
+  <div>
+    {{ with .PrevInSection }}
+      <a href="{{ .RelPermalink }}">← {{ .Title }}</a>
+    {{ end }}
+  </div>
+  <div>
+    {{ with .NextInSection }}
+      <a href="{{ .RelPermalink }}">{{ .Title }} →</a>
+    {{ end }}
+  </div>
+</nav>
+{{ end }}
