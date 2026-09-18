@@ -1,12 +1,13 @@
-﻿---
-title: "Sistem Komersial Gree: Dari VRF GMV hingga Chiller Industri"
-date: 2026-02-25
-description: "Solusi pendinginan terpusat untuk perkantoran, perhotelan, mall, dan data center."
-tags: ["Commercial AC", "VRF", "Chiller"]
+---
+title: "Commercial AC: Solusi VRF GMV, Cassette, dan Floor Standing"
+date: 2026-03-24
+slug: "commercial-ac"
 ---
 
-Lini komersial Gree melayani pendinginan terpusat skala menengah hingga besar:
+Kebutuhan tata udara skala besar menuntut fleksibilitas arsitektur pipa dan efisiensi konsumsi listrik yang terukur secara simultan.
 
-1. **Gree GMV (VRF System)**: Satu sistem outdoor menyuplai puluhan indoor dengan kontrol suhu terpisah di setiap ruangan.
-2. **Ceiling Cassette & Floor Standing**: Pendinginan multi-arah untuk restoran, ruang seminar, dan showroom.
-3. **Centrifugal / Magnetic Bearing Chiller**: Efisiensi pendinginan berkapasitas ribuan ton untuk gedung bertingkat tinggi dan fasilitas industri.
+### Arsitektur Terpusat VRF GMV
+Sistem `GMV` (*Gree Multi VRF*) dirancang untuk gedung perkantoran, hotel, dan bangunan komersial vertikal. Modul outdoor `GMV` mampu mendistribusikan aliran refrigeran ke puluhan unit indoor secara dinamis sesuai beban termal tiap zona ruangan.
+
+### Ceiling Cassette & Floor Standing
+Untuk ruang pertemuan, aula, atau area komersial berlantai luas, unit Ceiling Cassette menyalurkan hembusan udara multi-arah yang merata, sedangkan tipe Floor Standing memberikan kapasitas hembus tinggi untuk pendinginan cepat pada area terbuka.

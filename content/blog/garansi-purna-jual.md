@@ -1,22 +1,15 @@
 ---
-title: "Garansi Platinum Gree 5+10 Tahun dan Layanan 24/7 Always On"
-date: 2026-03-01
-description: "Panduan cakupan perlindungan garansi kompresor 10 tahun dan servis 5 tahun."
-tags: ["Layanan Pelanggan", "Garansi", "Purna Jual"]
+title: "Garansi & Layanan Purna Jual Resmi Gree"
+date: 2026-03-24
+slug: "garansi-purna-jual"
 ---
 
-Jaminan durabilitas produk Gree didukung oleh komitmen perlindungan purna jual jangka panjang:
+Standar perlindungan garansi unit pendingin udara Gree mencakup jaminan servis, suku cadang, dan kompresor untuk lini residential maupun komersial.
 
-### Cakupan Garansi:
-- **Garansi Sparepart & Servis 5 Tahun**: Mencakup perbaikan komponen suku cadang termasuk modul elektronik (PCB), sensor, motor fan, serta unit indoor dan outdoor.
-- **Garansi Kompresor 10 Tahun**: Kompresor unit pendingin split terlindungi dengan masa jaminan hingga satu dekade.
+### Komitmen Perlindungan Unit
+- **Garansi Servis & Suku Cadang 5 Tahun**: Berlaku penuh untuk unit pendingin hunian seperti lini inverter `F5S`, `Airy`, maupun tipe standar low-watt `C3ES`.
+- **Garansi Kompresor 10 Tahun**: Menjamin ketahanan kompresor utama terhadap penurunan performa maupun kerusakan mekanis jangka panjang.
+- **Dukungan Sistem Komersial**: Untuk instalasi skala gedung seperti modul VRF `GMV`, jaminan unit dan kontrak perawatan ditangani secara berkala oleh teknisi tersertifikasi.
 
-### Layanan 24/7 Always On & 48 Jam Jamin Dingin
-Layanan pelanggan dapat dihubungi melalui nomor Call Center `0800-1777-888` atau WhatsApp `0812-8888-1171` selama 24 jam sehari, 7 hari seminggu.
-
-Melalui program penanganan cepat, teknisi bersertifikasi ditargetkan tiba dan menyelesaikan kendala pendingin dalam kurun waktu 48 jam sejak laporan dicatat.
-
-### Ketentuan Klaim Garansi:
-1. Pembelian dilakukan melalui jaringan distributor atau toko terdaftar.
-2. Menyimpan bukti pembelian (invoice/nota) atau kartu garansi unit.
-3. Pemasangan dilakukan sesuai standar panduan manual instalasi unit.
+### Prosedur Klaim
+Pengajuan servis dilakukan dengan menyiapkan nota pembelian asli serta nomor seri unit indoor dan outdoor sebelum menghubungi kanal layanan pelanggan resmi.
