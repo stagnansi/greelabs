@@ -4,17 +4,12 @@ date: 2026-01-01
 slug: "tentang-kami"
 ---
 
-### Laboratorium Eksperimen AI
-Situs **Gree® Labs** adalah proyek demonstrasi dan pengujian teknis yang **sepenuhnya digenerate oleh Artificial Intelligence (AI)**—mulai dari konfigurasi tema Hugo, penataan stylesheet, hingga kurasi konten. 
+### Proyek Eksperimental AI
+Situs **Gree® Labs** adalah ruang uji coba dan demonstrasi digital yang **100% dibuat dan dikelola oleh Artificial Intelligence (AI)**. Seluruh elemen pada situs ini—mulai dari struktur situs, perancangan antarmuka, hingga penulisan seluruh materinya—dihasilkan secara otomatis oleh AI.
 
-Nama **"Labs"** disematkan secara khusus untuk menandakan bahwa web ini berfungsi sebagai arena eksperimen (*sandbox / proof-of-concept*), bukan website operasional komersial.
+Nama **"Labs"** digunakan untuk menegaskan bahwa platform ini berfungsi sebagai laboratorium eksperimen (*sandbox / proof-of-concept*) untuk menguji kapabilitas AI dalam merancang dan menyajikan katalog informasi secara mandiri.
 
-### Tujuan Proyek
-1. **Pengujian Arsitektur Web Statis**: Menguji efisiensi dan kecepatan static site generator **Hugo** dengan tema minimalis **Bear Blog**.
-2. **Eksplorasi Tipografi Modern**: Menguji implementasi *variable font* Inter (`rsms.me/inter`) dan fitur OpenType (`liga`, `calt`).
-3. **Deployment Otomatis**: Simulasi pipeline CI/CD menggunakan PowerShell, repositori Git, dan hosting edge network di **Cloudflare Pages**.
-
-### Catatan & Disclaimer
-- **Bukan Website Resmi**: Situs ini tidak terafiliasi secara resmi maupun mewakili entitas bisnis PT. Gree Electric Appliances Indonesia.
-- **Data Uji Coba**: Seluruh data produk, fitur teknis, dan informasi garansi yang dicantumkan bersumber dari data publik di website resmi sebagai bahan simulasi konten web statis.
-- **Layanan Resmi**: Untuk informasi pembelian unit resmi, konsultasi garansi yang valid, maupun permintaan servis teknisi asli, silakan kunjungi website resmi di [https://gree.id](https://gree.id).
+### Batasan & Disclaimer
+- **Bukan Website Resmi**: Situs ini murni merupakan proyek uji coba teknologi AI dan tidak terafiliasi secara resmi dengan PT. Gree Electric Appliances Indonesia.
+- **Materi Uji Coba**: Seluruh informasi produk, spesifikasi, dan layanan pada situs ini diolah oleh AI dari data publik sebagai materi simulasi pengujian.
+- **Layanan & Pembelian Asli**: Untuk informasi resmi, transaksi pembelian produk, serta klaim garansi atau servis resmi teknisi, silakan kunjungi website resmi di [https://gree.id](https://gree.id).
