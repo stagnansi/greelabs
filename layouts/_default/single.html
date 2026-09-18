@@ -1,5 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
+
+{{ if eq .Section "blog" }}
 <p>
   <i>
     <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
@@ -7,10 +9,13 @@
     </time>
   </i>
 </p>
+{{ end }}
+
 <content>
   {{ .Content }}
 </content>
 
+{{ if eq .Section "blog" }}
 <hr style="margin-top: 30px; margin-bottom: 20px;" />
 
 <nav style="display: flex; justify-content: space-between; font-family: 'IBM Plex Mono', monospace; font-size: 14px; gap: 1rem;">
@@ -25,4 +30,5 @@
     {{ end }}
   </div>
 </nav>
+{{ end }}
 {{ end }}
