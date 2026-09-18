@@ -1,16 +1,17 @@
 ---
-title: "Kontak & Saluran Resmi"
+title: "Kontak & Pusat Bantuan"
 date: 2026-01-01
 slug: "kontak"
 ---
 
-> **Catatan Sistem**: Platform **Gree® Labs** adalah sistem uji coba AI dan **tidak memiliki staf layanan pelanggan atau teknisi**. Daftar kontak di bawah ini merupakan data publik resmi PT. Gree Electric Appliances Indonesia yang dirangkum otomatis untuk keperluan navigasi rujukan.
+Untuk informasi spesifikasi produk, bantuan teknis, maupun pengajuan layanan purna jual dan garansi, saluran komunikasi berikut dapat dihubungi:
 
-Jika Anda membutuhkan konsultasi resmi, pengajuan klaim garansi valid, atau permohonan kunjungan teknisi, hubungi pihak resmi melalui saluran berikut:
-
-### Saluran Resmi PT. Gree Electric Appliances Indonesia
+### Saluran Layanan Pelanggan
 - **Call Center Bebas Pulsa**: `0800-1-777-888`
-- **WhatsApp Hotline Resmi**: `0812-8888-1171`
+- **WhatsApp Hotline (Chat Only)**: `0812-8888-1171`
 - **Email Customer Care**: `customercare@gree.id`
-- **Email Teknis**: `helpdesk@gree.id`
-- **Website Resmi**: [https://gree.id](https://gree.id)
+- **Email Bantuan Teknis**: `helpdesk@gree.id`
+- **Waktu Operasional Layanan**: 24 Jam / 7 Hari (*Always On Service*)
+- **Portal Informasi**: [https://gree.id](https://gree.id)
+
+*Catatan: Siapkan nomor seri unit indoor/outdoor dan bukti nota pembelian saat mengajukan kunjungan teknisi atau klaim garansi.*
