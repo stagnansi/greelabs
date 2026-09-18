@@ -10,6 +10,25 @@ title = "Gree® Labs"
 favicon = ""
 
 [menu]
+  [[menu.main]]
+    name = "Beranda"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Katalog"
+    url = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tentang"
+    url = "/tentang-kami/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Kontak"
+    url = "/kontak/"
+    weight = 4
 [[menu.main]]
 name = "Beranda"
 url = "/"
