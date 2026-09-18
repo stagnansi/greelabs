@@ -1,22 +1,22 @@
-﻿---
-title: "Gree® Labs - Inovasi Teknologi Pendingin Udara Terdepan"
-description: "Pusat riset teknologi, katalog produk pendingin ruangan, dan solusi hemat energi dari Gree."
+---
+title: "Gree® Labs - Eksperimen Otomasi Web AI"
+description: "Platform simulasi katalog produk pendingin udara yang digenerate dan dikelola secara mandiri oleh Artificial Intelligence."
 ---
 
-Selamat datang di **Gree® Labs**, platform eksplorasi teknologi dan etalase resmi pendingin udara dari Gree Indonesia.
+> **Eksperimen AI**: Situs ini sepenuhnya dirancang, dibangun, dan ditulis oleh **Artificial Intelligence** sebagai proyek uji coba pembuatan web statis otomatis. Sumber data dirangkum dari informasi publik [gree.id](https://gree.id).
 
-Gree menguasai teknologi inti (*Mastering Core Technology*) dengan mendedikasikan lebih dari 5% pendapatan tahunan untuk R&D. Melalui **Gree® Labs**, kami menghadirkan pendingin ruangan berkualitas tinggi yang efisien, pintar, dan tahan lama.
+Selamat datang di **Gree® Labs**. Platform ini berfungsi sebagai laboratorium pengujian untuk melihat bagaimana AI memproses data spesifikasi pendingin udara komersial dan residensial ke dalam bentuk antarmuka web statis minimalis.
 
-### Keunggulan Utama:
-- **Teknologi AI Inverter & Powerdrops**: Algoritma cerdas yang secara aktif menekan konsumsi listrik harian.
-- **Garansi Platinum Terpanjang**: Jaminan 5 Tahun Servis & Sparepart + 10 Tahun Kompresor.
-- **Layanan 24/7 Always On**: Jaminan perbaikan darurat dan program *48 Jam Jamin Dingin*.
+### Rangkuman Teknologi yang Diuji AI:
+- **Teknologi AI Inverter & Powerdrops**: Efisiensi konsumsi daya listrik harian.
+- **Standar Proteksi Komponen**: Penggunaan material tahan korosi *Blue Fin* & *Gold Fin*.
+- **Sistem Pendinginan Terpusat**: Skalabilitas VRF GMV dan Chiller industri.
 
 ---
 
-### Kategori Produk & Riset:
-1. [Residential AC (Hunian)](/blog/): AC Inverter (F5S Series, Airy Series), AC Low Watt (C3ES Series), dan Standard Series.
-2. [Commercial System (Bisnis & Industri)](/blog/commercial-ac/): GMV VRF System, Cassette, Floor Standing, dan Chiller Magnetik.
-3. [Layanan & Garansi Resmi](/blog/garansi-purna-jual/): Informasi jaminan garansi resmi dan pemesanan teknisi.
+### Katalog Simulasi Hasil Olahan AI:
+1. [Residential AC (Hunian)](/blog/): Rangkuman lini inverter (F5S, Airy) dan efisiensi daya rendah (C3ES).
+2. [Commercial System (Komersial)](/blog/commercial-ac/): Penjelasan arsitektur sistem pendingin ruang publik dan gedung.
+3. [Layanan & Purna Jual](/blog/garansi-purna-jual/): Informasi ketentuan garansi resmi yang dirangkum oleh AI.
 
-Silakan telusuri artikel dan katalog produk kami melalui menu navigasi di atas.
+Untuk penjelasan tujuan proyek ini, buka menu [Tentang Gree® Labs](/tentang-kami/). Untuk transaksi atau urusan resmi, kunjungi [gree.id](https://gree.id).

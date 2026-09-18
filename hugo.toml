@@ -4,8 +4,8 @@ title = "Gree® Labs"
 theme = "hugo-bearblog"
 
 [params]
-author = "Gree® Labs"
-description = "Pusat inovasi teknologi, riset pendingin udara, dan solusi resmi Gree Indonesia."
+author = "Gree® Labs (AI Generated)"
+description = "Eksperimen pembuatan katalog web statis otomatis berbasis Artificial Intelligence menggunakan data publik Gree Indonesia."
 title = "Gree® Labs"
 favicon = ""
 
