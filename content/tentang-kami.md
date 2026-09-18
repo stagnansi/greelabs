@@ -4,12 +4,12 @@ date: 2026-01-01
 slug: "tentang-kami"
 ---
 
-### Proyek Eksperimental AI
-Situs **Gree® Labs** adalah ruang uji coba dan demonstrasi digital yang **100% dibuat dan dikelola oleh Artificial Intelligence (AI)**. Seluruh elemen pada situs ini—mulai dari struktur situs, perancangan antarmuka, hingga penulisan seluruh materinya—dihasilkan secara otomatis oleh AI.
+### Eksperimen Sintesis & Kurasi
+Situs **Gree® Labs** adalah ruang eksplorasi digital yang menggabungkan kemampuan pemrosesan **Artificial Intelligence (AI)** dengan **kurasi langsung manusia**. Seluruh fondasi teks, struktur antarmuka, dan arsitektur kode dieksplorasi menggunakan AI, lalu dipilah, disunting, dan diselaraskan secara manual oleh manusia.
 
-Nama **"Labs"** digunakan untuk menegaskan bahwa platform ini berfungsi sebagai laboratorium eksperimen (*sandbox / proof-of-concept*) untuk menguji kapabilitas AI dalam merancang dan menyajikan katalog informasi secara mandiri.
+Nama **"Labs"** disematkan untuk menegaskan status platform ini sebagai ruang uji coba (*sandbox / proof-of-concept*)—menguji sejauh mana AI mampu menyusun katalog informasi yang fungsional di bawah supervisi kuratorial manusia.
 
 ### Batasan & Disclaimer
-- **Bukan Website Resmi**: Situs ini murni merupakan proyek uji coba teknologi AI dan tidak terafiliasi secara resmi dengan PT. Gree Electric Appliances Indonesia.
-- **Materi Uji Coba**: Seluruh informasi produk, spesifikasi, dan layanan pada situs ini diolah oleh AI dari data publik sebagai materi simulasi pengujian.
-- **Layanan & Pembelian Asli**: Untuk informasi resmi, transaksi pembelian produk, serta klaim garansi atau servis resmi teknisi, silakan kunjungi website resmi di [https://gree.id](https://gree.id).
+- **Bukan Website Resmi**: Proyek ini merupakan inisiatif eksplorasi independen dan tidak terafiliasi dengan PT. Gree Electric Appliances Indonesia.
+- **Materi Uji Coba**: Data spesifikasi, teknologi pendingin, dan informasi purna jual dirangkum dari domain publik sebagai bahan simulasi struktur web statis.
+- **Layanan & Transaksi Asli**: Untuk informasi komersial resmi, pemesanan unit, dan layanan perbaikan teknisi bergaransi, kunjungi portal resmi di [https://gree.id](https://gree.id).
