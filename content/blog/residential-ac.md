@@ -1,16 +1,23 @@
 ---
-title: "Lini Residential AC: Inverter F5S, Airy, dan Low Watt C3ES"
+title: "Lini Residential AC: Inverter Unggulan, Seri Standar, dan Portabel"
 date: 2026-03-24
 slug: "residential-ac"
 ---
 
-Lini pendingin udara hunian (*residential*) Gree dirancang untuk menghadirkan efisiensi konsumsi listrik harian tanpa mengorbankan performa pendinginan ruangan.
+Ekosistem pendingin udara hunian (*residential*) Gree dirancang untuk menjawab berbagai kebutuhan beban termal, mulai dari efisiensi daya harian hingga ventilasi udara higienis.
 
-### Inverter Pintar F5S Series
-Model `F5S` mengusung teknologi kompresor inverter cerdas dengan algoritma penyesuaian beban bertahap. Seri `F5S` cocok untuk ruangan yang digunakan terus-menerus karena mampu meminimalisasi lonjakan daya listrik saat pengoperasian stabil.
+### Inverter Pintar F5S dan Airy Series
+Lini inverter cerdas mengombinasikan algoritma kontrol frekuensi adaptif dengan fitur nirkabel:
+- `F5S` Series: Dilengkapi kontrol daya cerdas *Powerdrops* yang memungkinkan pembatasan daya listrik bertahap sesuai kebutuhan rumah tangga.
+- `Airy` Series: Mengusung modul kontrol nirkabel cerdas dan sensor suhu presisi tinggi untuk kenyamanan istirahat maksimal.
 
-### Smart Connectivity Airy Series
-Seri `Airy` memadukan performa pendinginan presisi dengan integrasi modul *smart control*. Unit `Airy` memungkinkan pengendalian suhu berbasis jadwal dan otomasi cerdas lewat jaringan nirkabel.
+### Inverter Pembersih Udara Freair Series
+Untuk hunian yang membutuhkan sirkulasi udara luar yang sehat, seri `Freair` mengintegrasikan sistem ventilasi dua arah (*Fresh Air*) berfilter HEPA. Unit `Freair` secara aktif memasukkan oksigen segar dari luar ruangan sekaligus membuang udara kotor yang terperangkap di dalam.
 
-### Efisiensi Ruang Sempit C3ES Series
-Bagi hunian dengan kapasitas daya listrik terbatas, tipe `C3ES` hadir sebagai solusi *low-watt* standar. Seri `C3ES` tetap mempertahankan daya hembus optimal meski berjalan di batas konsumsi daya rendah.
+### Seri Hemat Daya C3ES dan Standar Tangguh MOO5s
+Solusi pendinginan konvensional dengan daya tahan tinggi:
+- `C3ES` Series: Kategori *low-watt* yang dirancang untuk rumah dengan keterbatasan kapasitas listrik tanpa mengorbankan hembusan pendinginan.
+- `MOO5` / `MOO5s` Series: Varian standar berpendinginan cepat (*Fast Cooling*) dengan sirip evaporator *Blue Fin* dan kondensor *Gold Fin* untuk perlindungan karat maksimal.
+
+### Fleksibilitas Pendingin Portabel P1 Series
+Bagi ruangan yang tidak memungkinkan jalur instalasi pipa atau kebutuhan penyejukan dinamis, seri `P1` hadir sebagai pendingin mandiri dengan rancangan roda terpadu dan saluran pembuangan udara panas fleksibel.
