@@ -15,8 +15,8 @@ Gree mengedepankan penguasaan teknologi inti (*Mastering Core Technology*) denga
 ---
 
 ### Kategori & Lini Produk 产品品类与系列
-1. [Residential AC (Hunian)](/blog/): Lini pendingin hemat energi inverter (F5S Series, Airy Series) serta kategori daya rendah (C3ES Series).
-2. [Commercial System (Komersial)](/blog/commercial-ac/): Solusi pendinginan skala besar mencakup VRF GMV, Ceiling Cassette, Floor Standing, hingga Chiller industri.
+1. [Residential AC (Hunian)](/blog/): Lini pendingin hemat energi inverter (`F5S` Series, `Airy` Series) serta kategori daya rendah (`C3ES` Series).
+2. [Commercial System (Komersial)](/blog/commercial-ac/): Solusi pendinginan skala besar mencakup VRF `GMV`, Ceiling Cassette, Floor Standing, hingga Chiller industri.
 3. [Layanan & Jaminan Garansi](/blog/garansi-purna-jual/): Panduan cakupan perlindungan unit, kompresor, dan standar penanganan teknisi.
 
 Silakan telusuri katalog dan ulasan teknis melalui menu navigasi di atas.
