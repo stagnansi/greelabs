@@ -1,57 +1,83 @@
 <style>
-  @import url('https://rsms.me/inter/inter.css');
-
   :root {
-    font-family: Inter, sans-serif;
-    font-feature-settings: 'liga' 1, 'calt' 1;
-  }
-  @supports (font-variation-settings: normal) {
-    :root { font-family: InterVariable, sans-serif; }
+    --width: 720px;
+    --font-main: Verdana, sans-serif;
+    --font-secondary: Verdana, sans-serif;
+    --font-scale: 1em;
+    --background-color: #fff;
+    --heading-color: #222;
+    --text-color: #444;
+    --link-color: #3273dc;
+    --visited-color: #8b6fcb;
+    --blockquote-color: #222;
   }
 
-  /* Terapkan font Inter ke seluruh elemen */
-  *, body, h1, h2, h3, h4, h5, h6, button, input, textarea, select {
-    font-family: inherit;
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --background-color: #01242e;
+      --heading-color: #eee;
+      --text-color: #ddd;
+      --link-color: #8cc2dd;
+      --visited-color: #8b6fcb;
+      --blockquote-color: #ccc;
+    }
   }
 
   body {
+    font-family: var(--font-secondary);
+    font-size: var(--font-scale);
     margin: auto;
     padding: 20px;
-    max-width: 65ch;
+    max-width: var(--width);
     text-align: left;
-    background-color: #fff;
+    background-color: var(--background-color);
     word-wrap: break-word;
     overflow-wrap: break-word;
     line-height: 1.5;
-    color: #444;
+    color: var(--text-color);
   }
 
-  h1, h2, h3, h4, h5, h6 {
-    color: #222;
-  }
-
-  p {
-    margin: 1.5em 0;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-main);
+    color: var(--heading-color);
   }
 
   a {
-    color: #3273dc;
+    color: var(--link-color);
+    cursor: pointer;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 
   nav a {
-    margin-right: 10px;
+    margin-right: 8px;
   }
 
-  textarea {
-    width: 100%;
-    font-size: 16px;
+  strong,
+  b {
+    color: var(--heading-color);
   }
 
-  input {
-    font-size: 16px;
+  button {
+    margin: 0;
+    cursor: pointer;
   }
 
-  content {
+  time {
+    font-family: monospace;
+    font-style: normal;
+    font-size: 15px;
+  }
+
+  main {
     line-height: 1.6;
   }
 
@@ -59,38 +85,24 @@
     width: 100%;
   }
 
+  hr {
+    border: 0;
+    border-top: 1px dashed;
+  }
+
   img {
     max-width: 100%;
   }
 
   code {
-    padding: 2px 5px;
-    background-color: #f2f2f2;
     font-family: monospace;
-  }
-
-  pre code {
-    color: #222;
-    display: block;
-    padding: 20px;
-    white-space: pre-wrap;
-    font-size: 14px;
-    overflow-x: auto;
-  }
-
-  div.highlight pre {
-    background-color: initial;
-    color: initial;
-  }
-
-  div.highlight code {
-    background-color: unset;
-    color: unset;
+    padding: 2px;
+    border-radius: 3px;
   }
 
   blockquote {
     border-left: 1px solid #999;
-    color: #222;
+    color: var(--blockquote-color);
     padding-left: 20px;
     font-style: italic;
   }
@@ -100,68 +112,48 @@
     text-align: center;
   }
 
-  .helptext {
-    color: #777;
-    font-size: small;
-  }
-
-  .header div {
-    text-align: right;
-    line-height: 2.5;
-  }
-
-  .header a {
+  .title:hover {
     text-decoration: none;
   }
 
-  .header h1 {
-    font-weight: 200;
+  .title h1 {
+    font-size: 1.5em;
   }
 
-  ul {
-    list-style: none;
-    padding-left: 0;
+  .inline {
+    width: auto !important;
   }
 
-  li {
-    margin-bottom: 8px;
+  .highlight,
+  .code {
+    border-radius: 3px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    overflow-x: auto;
   }
 
-  .taxonomy-list {
+  .highlight pre,
+  .code pre {
+    min-width: 100%;
+    width: max-content;
+  }
+
+  /* blog post list */
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
     display: flex;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
   }
 
-  .taxonomy-term {
-    margin-right: 10px;
-    margin-bottom: 10px;
+  ul.blog-posts li span {
+    flex: 0 0 130px;
   }
 
-  @media (prefers-color-scheme: dark) {
-    body {
-      background-color: #222;
-      color: #ddd;
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-      color: #eee;
-    }
-
-    a {
-      color: #08f;
-    }
-
-    code {
-      background-color: #333;
-    }
-
-    pre code {
-      color: #ddd;
-    }
-
-    blockquote {
-      color: #ccc;
-    }
+  ul.blog-posts li a:visited {
+    color: var(--visited-color);
   }
+
 </style>
