@@ -1,13 +1,4 @@
-baseURL = "https://greelabs.pages.dev/"
-locale =  "id"
-title = "Gree® Labs"
-theme = "hugo-bearblog"
 
-[params]
-author = "Gree® Labs"
-description = "Pusat informasi teknologi pendingin udara, efisiensi energi, dan spesifikasi lini produk Gree."
-title = "Gree® Labs"
-favicon = ""
 
 [menu]
   [[menu.main]]
@@ -29,22 +20,3 @@ favicon = ""
     name = "Kontak"
     url = "/kontak/"
     weight = 4
-[[menu.main]]
-name = "Beranda"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "Katalog & Riset"
-url = "/blog/"
-weight = 2
-
-[[menu.main]]
-name = "Tentang Gree® Labs"
-url = "/tentang-kami/"
-weight = 3
-
-[[menu.main]]
-name = "Kontak & Dukungan"
-url = "/kontak/"
-weight = 4
