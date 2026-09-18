@@ -1,0 +1,14 @@
+# Hugo output & cache
+public/
+resources/_gen/
+.hugo_build.lock
+
+# OS metadata
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.code-workspace
