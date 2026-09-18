@@ -13,15 +13,15 @@
 
 <hr style="margin-top: 30px; margin-bottom: 20px;" />
 
-<nav style="display: flex; justify-content: space-between; font-family: 'IBM Plex Mono', monospace; font-size: 14px;">
+<nav style="display: flex; justify-content: space-between; font-family: 'IBM Plex Mono', monospace; font-size: 14px; gap: 1rem;">
   <div>
     {{ with .PrevInSection }}
-      <a href="{{ .RelPermalink }}">← {{ .Title }}</a>
+      <a href="{{ .RelPermalink }}"><span style="font-family: Inter, sans-serif; display: inline-block;">←</span> {{ .Title }}</a>
     {{ end }}
   </div>
   <div>
     {{ with .NextInSection }}
-      <a href="{{ .RelPermalink }}">{{ .Title }} →</a>
+      <a href="{{ .RelPermalink }}">{{ .Title }} <span style="font-family: Inter, sans-serif; display: inline-block;">→</span></a>
     {{ end }}
   </div>
 </nav>
