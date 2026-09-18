@@ -1,21 +1,14 @@
 ---
-title: "Gree F5S Inverter Series: Inovasi Smart Cleaner & Powerdrops"
+title: "Warta Produk: Terobosan Fitur Penghemat Daya Powerdrops pada Seri F5S"
 date: 2022-09-29
-description: "Eksplorasi fitur pembersih otomatis Smart Cleaner dan penghemat daya Powerdrops pada seri F5S Inverter."
-tags: ["Residential AC", "Inverter", "Smart Cleaner"]
+slug: "f5s-inverter"
+categories: ["Event"]
+tags: ["inverter", "f5s", "inovasi"]
 ---
 
-**Gree F5S Inverter** menghadirkan kombinasi efisiensi daya dan udara sehat melalui fitur pembersih mandiri.
+JAKARTA — Menjawab tantangan efisiensi energi pada sektor hunian, Gree memperkenalkan seri pendingin udara cerdas **F5S Inverter** yang dilengkapi fitur kendali daya inovatif bertajuk *Powerdrops*.
 
-### Fitur Unggulan:
-1. **Smart Cleaner System**: Evaporator membekukan embun, mencairkan, lalu mengeringkan kotoran secara otomatis sehingga hembusan udara tetap bersih dan higienis.
-2. **Powerdrops Mode**: Pengguna dapat membatasi konsumsi daya listrik hingga 50% hanya dengan satu tombol remote.
-3. **Easy Clean Mechanism**: Kisi louver dan filter udara dapat dilepas serta dibersihkan tanpa alat pembongkar khusus.
+### Kendali Fleksibel Daya Listrik
+Melalui fitur *Powerdrops*, pengguna dapat mengatur konsumsi daya listrik unit secara bertingkat melalui tombol kendali. Opsi ini memberikan fleksibilitas saat peralatan rumah tangga lain berdaya besar sedang beroperasi serentak, sehingga mencegah pemutus daya (MCB) jatuh.
 
-### Pilihan Kapasitas (PK):
-- `0.5 PK (GWC-05F5S)`: Cocok untuk kamar tidur ukuran 8-12 m²
-- `1.0 PK (GWC-09F5S)`: Cocok untuk ruang kerja ukuran 12-18 m²
-- `1.5 PK (GWC-12F5S)`: Cocok untuk ruang keluarga ukuran 16-24 m²
-- `2.0 PK (GWC-18F5S)`: Solusi ruangan besar ukuran 22-35 m²
-
-**Garansi Unit**: 5 Tahun Servis & Sparepart + 10 Tahun Kompresor.
+Unit F5S juga didukung proses pembersihan mandiri otomatis serta proteksi sirip evaporator anti-karat untuk menjaga stabilitas pertukaran panas dalam pemakaian harian.

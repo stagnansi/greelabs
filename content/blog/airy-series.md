@@ -1,12 +1,15 @@
 ---
-title: "Gree AIRY Series: Flagship AI Inverter dengan Sterilisasi UV-C"
+title: "Siaran Pers: Gree Resmi Hadirkan Lini AI Inverter Airy Series di Indonesia"
 date: 2024-07-10
-description: "AC pintar dengan algoritma AI terintegrasi dan modul disinfeksi udara sinar ultraviolet."
-tags: ["Residential AC", "Flagship", "AI Inverter"]
+slug: "airy-series"
+categories: ["Event"]
+tags: ["ai-inverter", "flagship", "event"]
 ---
 
-**Gree AIRY Series** merupakan kasta tertinggi pendingin ruangan hunian dengan integrasi kecerdasan buatan (*AI Learning*).
+JAKARTA — Memperkuat posisinya di pasar pendingin udara premium, Gree Indonesia secara resmi memperkenalkan lini unggulan terbarunya, **Airy Series**, dalam peluncuran akbar di Pullman Central Park, Jakarta.
 
-- **AI Smart Learning**: Mempelajari kebiasaan suhu penghuni dan beban panas ruangan secara dinamis untuk menghemat daya hingga 20% ekstra.
-- **Ultra-Quiet Operation**: Hembusan angin sangat senyap (di bawah 19 dB) untuk kualitas istirahat maksimal.
-- **Modul UVC Sterilization**: Mensterilkan aliran udara dari virus dan bakteri berbahaya di dalam unit indoor.
+### Algoritma Pendinginan Adaptif
+Berbeda dengan inverter konvensional, Airy Series dibekali kecerdasan buatan (*AI Inverter Algorithm*) yang mempelajari pola suhu lingkungan dan beban termal ruang secara bertahap. Sistem secara otomatis menyesuaikan frekuensi kerja kompresor untuk mencegah fluktuasi suhu ekstrem sekaligus memangkas konsumsi listrik secara signifikan.
+
+### Standar Udara Higienis & Konektivitas
+Selain efisiensi daya, unit ini mengintegrasikan pemurnian udara ion aktif serta modul konektivitas nirkabel yang memungkinkan kendali suhu presisi dari mana saja. Peluncuran ini menegaskan komitmen Gree dalam memadukan estetika desain modern dengan rekayasa pendingin masa depan.

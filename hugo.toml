@@ -5,8 +5,12 @@ locale = "id"
 
 [params]
   author = "Gree® Labs"
-  description = "Inovasi Teknologi Pendingin Udara, Air Treatment, dan Rekayasa Tata Udara"
+  description = "Pusat Informasi Teknologi, Warta Acara, dan Edukasi Tata Udara Gree Indonesia"
   dateFormat = "02 Jan, 2006"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [menu]
   [[menu.main]]
@@ -15,7 +19,7 @@ locale = "id"
     weight = 1
 
   [[menu.main]]
-    name = "Katalog"
+    name = "Berita"
     url = "/blog/"
     weight = 2
 

@@ -1,21 +1,17 @@
 ---
-title: "Garansi Platinum 1+5+10 dan Standar Purna Jual Resmi"
+title: "Pemberitahuan Resmi: Penerapan Standar Layanan Garansi Platinum 1+5+10"
 date: 2021-08-18
 slug: "garansi-purna-jual"
+categories: ["Promotion"]
+tags: ["garansi", "layanan-pelanggan", "purna-jual"]
 ---
 
-Gree Indonesia memberlakukan skema jaminan purna jual menyeluruh melalui program **Garansi Platinum 1+5+10** untuk seluruh lini unit pendingin udara hunian (*residential*).
+JAKARTA — Sebagai wujud jaminan mutu manufaktur dan kepuasan konsumen di tanah air, Gree Indonesia menetapkan kebijakan purna jual terpadu melalui skema **Garansi Platinum 1+5+10**.
 
-### Cakupan Perlindungan Platinum
-- **1 Tahun Ganti Unit Baru**: Jika terjadi kerusakan fungsional utama (kompresor rusak, kebocoran evaporator/kondensor) dalam masa 365 hari pertama sejak pembelian, unit akan diganti baru tanpa biaya tambahan.
-- **5 Tahun Garansi Servis & Suku Cadang**: Perlindungan penuh atas biaya perbaikan teknisi dan penggantian komponen elektrik maupun mekanikal unit.
-- **10 Tahun Garansi Kompresor**: Jaminan penggantian kompresor utama dari risiko macet, penurunan tekanan, hingga korsleting motor.
+### Butir Perlindungan Konsumen
+Skema perlindungan ini menjadi standar baru di industri pendingin udara:
+- **1 Tahun Penggantian Unit Baru**: Proteksi kerusakan mekanikal atau kebocoran komponen utama selama 365 hari pertama sejak tanggal pembelian.
+- **5 Tahun Bebas Biaya Servis & Suku Cadang**: Perlindungan menyeluruh untuk suku cadang kelistrikan dan perbaikan teknisi.
+- **10 Tahun Garansi Kompresor**: Jaminan penggantian kompresor pendingin tanpa biaya suku cadang tambahan.
 
-### Jaminan Sistem Komersial dan VRF GMV
-Untuk instalasi tata udara skala gedung seperti sistem `GMV`, paket perlindungan mencakup kontrak servis terjadwal, kalibrasi sensor debit refrigeran, serta penanganan darurat oleh teknisi bersertifikasi HVAC komersial.
-
-### Panduan Klaim & Dokumen Pendukung
-Untuk pengajuan kunjungan perbaikan atau klaim garansi:
-1. Siapkan kartu garansi resmi dan nota atau bukti transaksi pembelian unit.
-2. Catat kode model lengkap dan nomor seri (*serial number*) yang tertera pada pelat nama unit indoor maupun outdoor.
-3. Hubungi saluran resmi via nomor bebas pulsa [`0800-1-777-888`](tel:08001777888) atau pesan instan WhatsApp di [`0812-8888-1171`](https://wa.me/6281288881171).
+Program ini berlaku secara nasional untuk pembelian unit hunian resmi dengan bukti kartu garansi terdaftar.
