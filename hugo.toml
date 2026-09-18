@@ -1,5 +1,5 @@
 baseURL = "https://greelabs.pages.dev/"
-languageCode = "id"
+locale =  "id"
 title = "Gree® Labs"
 theme = "hugo-bearblog"
 
