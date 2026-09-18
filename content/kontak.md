@@ -6,7 +6,7 @@ slug: "kontak"
 
 Untuk informasi spesifikasi produk, bantuan teknis, maupun pengajuan layanan purna jual dan garansi, saluran komunikasi berikut dapat dihubungi:
 
-### Saluran Layanan Pelanggan
+### Saluran Layanan Pelanggan 客户服务渠道
 - **Call Center Bebas Pulsa**: `0800-1-777-888`
 - **WhatsApp Hotline (Chat Only)**: `0812-8888-1171`
 - **Email Customer Care**: `customercare@gree.id`
