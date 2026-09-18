@@ -13,9 +13,9 @@ tags: ["Residential AC", "Inverter", "Smart Cleaner"]
 3. **Easy Clean Mechanism**: Kisi louver dan filter udara dapat dilepas serta dibersihkan tanpa alat pembongkar khusus.
 
 ### Pilihan Kapasitas (PK):
-- **0.5 PK (GWC-05F5S)**: Cocok untuk kamar tidur ukuran 8-12 m²
-- **1.0 PK (GWC-09F5S)**: Cocok untuk ruang kerja ukuran 12-18 m²
-- **1.5 PK (GWC-12F5S)**: Cocok untuk ruang keluarga ukuran 16-24 m²
-- **2.0 PK (GWC-18F5S)**: Solusi ruangan besar ukuran 22-35 m²
+- `0.5 PK (GWC-05F5S)`: Cocok untuk kamar tidur ukuran 8-12 m²
+- `1.0 PK (GWC-09F5S)`: Cocok untuk ruang kerja ukuran 12-18 m²
+- `1.5 PK (GWC-12F5S)`: Cocok untuk ruang keluarga ukuran 16-24 m²
+- `2.0 PK (GWC-18F5S)`: Solusi ruangan besar ukuran 22-35 m²
 
 **Garansi Unit**: 5 Tahun Servis & Sparepart + 10 Tahun Kompresor.
