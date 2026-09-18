@@ -15,20 +15,5 @@
   {{ .Content }}
 </content>
 
-{{ if eq .Section "blog" }}
-<hr style="margin-top: 30px; margin-bottom: 20px;" />
-
-<nav style="display: flex; justify-content: space-between; font-family: 'IBM Plex Mono', monospace; font-size: 14px; gap: 1rem;">
-  <div>
-    {{ with .PrevInSection }}
-      <span style="font-family: Inter, sans-serif;">←</span> <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    {{ end }}
-  </div>
-  <div>
-    {{ with .NextInSection }}
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a> <span style="font-family: Inter, sans-serif;">→</span>
-    {{ end }}
-  </div>
-</nav>
-{{ end }}
+{{ partial "post_navigator.html" . }}
 {{ end }}

@@ -1,0 +1,15 @@
+{{ if eq .Section "blog" }}
+<hr class="post-nav-divider" />
+<nav class="post-nav">
+  <div class="prev">
+    {{ with .PrevInSection }}
+      <span class="nav-arrow">←</span> <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ end }}
+  </div>
+  <div class="next">
+    {{ with .NextInSection }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="nav-arrow">→</span>
+    {{ end }}
+  </div>
+</nav>
+{{ end }}
