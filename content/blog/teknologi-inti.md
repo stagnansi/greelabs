@@ -1,6 +1,6 @@
 ---
 title: "Teknologi Inti Gree: Cold Plasma, Smart Cleaner, dan Proteksi Korosi"
-date: 2026-03-24
+date: 2021-03-10
 slug: "teknologi-inti"
 ---
 

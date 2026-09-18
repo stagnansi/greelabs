@@ -1,6 +1,6 @@
 ---
 title: "Commercial AC: Solusi VRF GMV, Cassette, dan Floor Standing"
-date: 2026-03-24
+date: 2021-11-20
 slug: "commercial-ac"
 ---
 

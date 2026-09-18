@@ -1,6 +1,6 @@
 ---
 title: "Lini Residential AC: Inverter Unggulan, Seri Standar, dan Portabel"
-date: 2026-03-24
+date: 2023-05-15
 slug: "residential-ac"
 ---
 

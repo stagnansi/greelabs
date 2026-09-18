@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Gree AIRY Series: Flagship AI Inverter dengan Sterilisasi UV-C"
-date: 2026-02-15
+date: 2024-07-10
 description: "AC pintar dengan algoritma AI terintegrasi dan modul disinfeksi udara sinar ultraviolet."
 tags: ["Residential AC", "Flagship", "AI Inverter"]
 ---

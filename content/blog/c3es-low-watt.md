@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Gree C3ES Low Watt: Solusi Andal untuk Listrik Rumah Terbatas"
-date: 2026-02-20
+date: 2021-04-15
 description: "AC hemat daya khusus hunian dengan kapasitas daya PLN 900VA - 1300VA."
 tags: ["Residential AC", "Low Watt"]
 ---

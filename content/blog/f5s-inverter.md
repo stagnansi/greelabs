@@ -1,6 +1,6 @@
 ---
 title: "Gree F5S Inverter Series: Inovasi Smart Cleaner & Powerdrops"
-date: 2026-02-10
+date: 2022-09-29
 description: "Eksplorasi fitur pembersih otomatis Smart Cleaner dan penghemat daya Powerdrops pada seri F5S Inverter."
 tags: ["Residential AC", "Inverter", "Smart Cleaner"]
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Garansi Platinum 1+5+10 dan Standar Purna Jual Resmi"
-date: 2026-03-24
+date: 2021-08-18
 slug: "garansi-purna-jual"
 ---
 
